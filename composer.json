@@ -1,0 +1,21 @@
+{
+    "name": "waahhhh/serde-test",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Waahhhh\\SerdeTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "waahhhh",
+            "email": "40632052+waahhhh@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^8.2",
+        "crell/serde": "^1.1"
+    }
+}
